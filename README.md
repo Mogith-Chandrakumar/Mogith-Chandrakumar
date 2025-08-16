@@ -40,15 +40,20 @@
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mogith-chandrakumar&show_icons=true&theme=tokyonight)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mogith-Chandrakumar&bg_color=000000&color=ffffff&line=0af587&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📈 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mogith_Hack?theme=dark&font=Marcellus&ext=heatmap)
 
 ---
 
 ## 📫 Connect with Me
 
-- <img width="30" height="30" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> [LinkedIn](http://www.linkedin.com/in/mogith-chandrakumar)
-- <img width="30" height="30" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/> [Mail](mailto:mogith2002@gmail.com)
-- 📍 Eastern Province, Sri Lanka
-
+  [<img width="100" height="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](http://www.linkedin.com/in/mogith-chandrakumar)   [<img width="100" height="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mogith2002@gmail.com)   [<img width="100" height="120" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/profile/mojithkumar04)   [<img width="100" height="120" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/u/Mogith_Hack/)   [<img width="100" height="120" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/>](https://www.sololearn.com/profile/34503905/?ref=app)
+  	
 ---
 
 _Thanks for visiting my profile! Let's connect and build something amazing together._
