@@ -45,8 +45,8 @@
 
 ## 📫 Connect with Me
 
-- <img width="30" height="30" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> [LinkedIn](https://www.linkedin.com/in/mogithchandrakumar)
-- <img width="30" height="30" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/> [Mail](mogith2002@gmail.com)
+- <img width="30" height="30" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> [LinkedIn](http://www.linkedin.com/in/mogith-chandrakumar)
+- <img width="30" height="30" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/> [Mail](mailto:mogith2002@gmail.com)
 - 📍 Eastern Province, Sri Lanka
 
 ---
