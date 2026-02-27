@@ -41,16 +41,10 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mogith-chandrakumar&show_icons=true&theme=tokyonight)
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mogith-Chandrakumar&bg_color=000000&color=ffffff&line=0af587&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📈 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mogith_Hack?theme=dark&font=Marcellus&ext=heatmap)
-
----
 
 ## 📫 Connect with Me
 
